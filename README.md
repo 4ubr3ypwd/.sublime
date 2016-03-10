@@ -1,3 +1,1 @@
-# sublime
-My sublime config 
- 
+My sublime preferences.
