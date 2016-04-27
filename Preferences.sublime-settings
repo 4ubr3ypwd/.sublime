@@ -20,9 +20,15 @@
 	],
 	"bold_folder_labels": true,
 	"caret_style": "blink",
-	"color_scheme": "Packages/Theme - Fox/fox.dark.tmTheme",
+	"color_scheme": "Packages/Tomorrow Color Schemes/Tomorrow-Night.tmTheme",
 	"copy_with_empty_selection": true,
+	"draw_indent_guides": false,
 	"draw_white_space": "all",
+	"el_capitan_font_default": false,
+	"el_capitan_font_helvetica": false,
+	"el_capitan_font_helvetica_neue": false,
+	"el_capitan_font_san_francisco": true,
+	"el_capitan_sidebar_blue_folders": true,
 	"ensure_newline_at_eof_on_save": true,
 	"file_exclude_patterns":
 	[
@@ -48,12 +54,18 @@
 		"subpixel_antialias"
 	],
 	"font_size": 12,
+	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"hot_exit": true,
 	"ignored_packages":
 	[
 		"Markdown",
 		"Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
 	],
 	"index_exclude_patterns":
 	[
@@ -69,7 +81,7 @@
 		"*.map*"
 	],
 	"line_padding_bottom": 0,
-	"line_padding_top": 0,
+	"line_padding_top": 1,
 	"live_matching": true,
 	"matching_scope": "invalid",
 	"open_files_in_new_window": true,
@@ -85,10 +97,12 @@
 	"show_line_endings": true,
 	"show_minimap": false,
 	"show_only_filename": true,
+	"sidebar_font_small": true,
+	"soda_classic_tabs": true,
 	"spell_check": true,
-	"tab_size": 2,
+	"tab_size": 2.5,
 	"theirs_gutter": true,
-	"theme": "Fox.sublime-theme",
+	"theme": "Soda Dark 3.sublime-theme",
 	"trim_trailing_white_space_on_save": true,
 	"use_simple_full_screen": true,
 	"vintage_lines.force_mode": true,
