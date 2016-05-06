@@ -1,3 +1,17 @@
 [
-	{ "keys": ["super+\\"], "command": "toggle_side_bar" }
+	/*
+	 * Show the sidebar easier.
+	 */
+	{ "keys": ["super+\\"], "command": "toggle_side_bar" },
+
+	/*
+	 * Move with left shift by words.
+	 */
+	// { "keys": ["leftshift+left"], "command": "move", "args": {"by": "subword_ends", "forward": false} },
+	// { "keys": ["leftshift+right"], "command": "move", "args": {"by": "subwords", "forward": true} },
+	// { "keys": ["leftshift+shift+left"], "command": "move", "args": {"by": "subword_ends", "forward": false, "extend": true} },
+	// { "keys": ["leftshift+shift+right"], "command": "move", "args": {"by": "subwords", "forward": true, "extend": true} },
+
+	// { "keys": ["left"], "command": "move", "args": {"by": "characters", "forward": false, "extend": true} },
+	// { "keys": ["right"], "command": "move", "args": {"by": "characters", "forward": true, "extend": true} },
 ]
