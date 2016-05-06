@@ -52,6 +52,9 @@
 	"font_face": "Menlo",
 	"font_options":
 	[
+		"no_bold",
+		"no_italic",
+		"no_round",
 		"subpixel_antialias"
 	],
 	"font_size": 12,
