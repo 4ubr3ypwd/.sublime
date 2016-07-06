@@ -232,7 +232,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#BBDFDD</string>
+				<string>#D3F2F0</string>
 				<key>background</key>
 				<string></string>
 			</dict>
@@ -366,7 +366,7 @@
 				<key>fontStyle</key>
 				<string>italic</string>
 				<key>foreground</key>
-				<string>#5AABD6</string>
+				<string>#7693B3</string>
 				<key>background</key>
 				<string></string>
 			</dict>

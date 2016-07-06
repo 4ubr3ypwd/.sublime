@@ -5,6 +5,15 @@
 	{ "keys": ["super+\\"], "command": "toggle_side_bar" },
 
 	/*
+	 * Marks.
+	 */
+	{ "keys": ["ctrl+."], "command": "next_bookmark" },
+	{ "keys": ["ctrl+,"], "command": "prev_bookmark" },
+	{ "keys": ["ctrl+i"], "command": "toggle_bookmark" },
+	{ "keys": ["ctrl+shift+d"], "command": "clear_bookmarks" },
+	{ "keys": ["ctrl+shift+i"], "command": "select_all_bookmarks" },
+
+	/*
 	 * Move with left shift by words.
 	 */
 	// { "keys": ["leftshift+left"], "command": "move", "args": {"by": "subword_ends", "forward": false} },
