@@ -1,10 +1,9 @@
 {
 	"permanent_highlight_keyword_color_mappings": [
 		{ "keyword": "@TODO", "color": "text.html.basic source.php.embedded.block.html meta.function.php entity.name.function.php", "flag": 3 },
-		{ "keyword": "error_log", "color": "embedding.php text.html.basic meta.embedded.block.php source.php variable.other.php", "flag": 3 },
-		{ "keyword": "ChromePhp", "color": "embedding.php text.html.basic meta.embedded.block.php source.php variable.other.php", "flag": 3 },
-		{ "keyword": "var_dump", "color": "embedding.php text.html.basic meta.embedded.block.php source.php variable.other.php", "flag": 3 },
-		{ "keyword": "var_export", "color": "embedding.php text.html.basic meta.embedded.block.php source.php variable.other.php", "flag": 3 },
+		{ "keyword": "error_log", "color": "text.html.basic source.php.embedded.block.html meta.function.php entity.name.function.php", "flag": 3 },
+		{ "keyword": "var_dump", "color": "text.html.basic source.php.embedded.block.html meta.function.php entity.name.function.php", "flag": 3 },
+		{ "keyword": "var_export", "color": "text.html.basic source.php.embedded.block.html meta.function.php entity.name.function.php", "flag": 3 },
 		{ "keyword": "@LEFTOFF", "color": "text.html.basic source.php.embedded.block.html keyword.control.php", "flag": 3 },
 	]
 }

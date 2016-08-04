@@ -1,4 +1,8 @@
 {
+	"added_words":
+	[
+		"programatically"
+	],
 	"always_show_minimap_viewport": false,
 	"ancestor_gutter": true,
 	"auto_complete_commit_on_tab": true,
@@ -19,7 +23,6 @@
 		"*.min.*"
 	],
 	"bold_folder_labels": true,
-	"caret_style": "blink",
 	"centurion_color_orange": true,
 	"color_scheme": "Packages/gruvbox/gruvbox (Dark) (Hard) NDC.tmTheme",
 	"copy_with_empty_selection": true,
@@ -93,8 +96,8 @@
 		"*.min.*",
 		"*.map*"
 	],
-	"line_padding_bottom": 0.5,
-	"line_padding_top": 0.5,
+	"line_padding_bottom": 0.2,
+	"line_padding_top": 0.2,
 	"live_matching": true,
 	"matching_scope": "invalid",
 	"material_theme_compact_panel": true,

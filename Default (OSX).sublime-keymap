@@ -3,6 +3,7 @@
 	 * Show the sidebar easier.
 	 */
 	{ "keys": ["super+\\"], "command": "toggle_side_bar" },
+	{ "keys": ["super+."], "command": "toggle_side_bar" },
 
 	/*
 	 * Marks.
