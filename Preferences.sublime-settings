@@ -54,6 +54,7 @@
 		"subpixel_antialias"
 	],
 	"font_size": 12,
+	"gruvbox_underline_active_tab": true,
 	"gruvbox_accent_aqua": true,
 	"gruvbox_autocomplete_border": false,
 	"gruvbox_autocomplete_compact": true,
