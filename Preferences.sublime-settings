@@ -24,9 +24,10 @@
 	],
 	"bold_folder_labels": true,
 	"centurion_color_orange": true,
-	"color_scheme": "Packages/gruvbox/gruvbox (Dark) (Hard) NDC.tmTheme",
+	"color_scheme": "Packages/themes/scheme-sweet.tmTheme",
 	"copy_with_empty_selection": true,
 	"draw_indent_guides": true,
+	"draw_shadows": false,
 	"draw_white_space": "all",
 	"el_capitan_sidebar_blue_folders": true,
 	"ensure_newline_at_eof_on_save": true,
@@ -51,10 +52,10 @@
 	"font_face": "Menlo",
 	"font_options":
 	[
+		"DirectWrite",
 		"subpixel_antialias"
 	],
 	"font_size": 12,
-	"gruvbox_underline_active_tab": true,
 	"gruvbox_accent_aqua": true,
 	"gruvbox_autocomplete_border": false,
 	"gruvbox_autocomplete_compact": true,
@@ -70,6 +71,7 @@
 	"gruvbox_tabs_autowidth": true,
 	"gruvbox_tabs_font_size_11": true,
 	"gruvbox_tabs_xxs": true,
+	"gruvbox_underline_active_tab": true,
 	"gruvbox_underline_modified_tabs": true,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
@@ -97,8 +99,8 @@
 		"*.min.*",
 		"*.map*"
 	],
-	"line_padding_bottom": 0.2,
-	"line_padding_top": 0.2,
+	"line_padding_bottom": 0,
+	"line_padding_top": 0,
 	"live_matching": true,
 	"matching_scope": "invalid",
 	"material_theme_compact_panel": true,
