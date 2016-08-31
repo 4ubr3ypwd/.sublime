@@ -82,7 +82,7 @@
 	],
 	"indent_guide_options":
 	[
-		// "draw_normal",
+		"draw_normal",
 		"draw_active"
 	],
 	"index_exclude_patterns":
