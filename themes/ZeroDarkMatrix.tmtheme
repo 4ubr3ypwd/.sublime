@@ -16,7 +16,7 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#222222</string>
+				<string>#242424</string>
 				<key>caret</key>
 				<string>#00ee03</string>
 				<key>foreground</key>
@@ -78,8 +78,6 @@
 			<string>comment</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string>italic</string>
 				<key>foreground</key>
 				<string>#7C7C7C</string>
 				<key>background</key>
@@ -94,7 +92,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#EB9D65F5</string>
+				<string>#DE8749F5</string>
 				<key>background</key>
 				<string></string>
 			</dict>
@@ -138,8 +136,6 @@
 				<string>#bB7Dbf</string>
 				<key>background</key>
 				<string>#9B9FFD00</string>
-				<key>fontStyle</key>
-				<string> bold</string>
 			</dict>
 		</dict>
 		<dict>
@@ -149,8 +145,6 @@
 			<string>storage</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string>italic</string>
 				<key>foreground</key>
 				<string>#997CD6</string>
 				<key>background</key>
@@ -283,8 +277,6 @@
 			<string>entity.name.class</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string>bold</string>
 				<key>foreground</key>
 				<string>#B998DF</string>
 				<key>background</key>
@@ -363,8 +355,6 @@
 			<string>string source</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string>italic</string>
 				<key>foreground</key>
 				<string>#7693B3</string>
 				<key>background</key>
@@ -462,7 +452,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#ff9635</string>
+				<string>#DE8749F5</string>
 			</dict>
 		</dict>
 		<dict>
@@ -539,7 +529,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#ff9635</string>
+				<string>#DE8749F5</string>
 			</dict>
 		</dict>
 		<dict>
@@ -562,8 +552,6 @@
 			<dict>
 				<key>foreground</key>
 				<string>#49A6D2</string>
-				<key>fontStyle</key>
-				<string>bold</string>
 			</dict>
 		</dict>
 		<dict>
@@ -575,8 +563,6 @@
 			<dict>
 				<key>foreground</key>
 				<string>#B0EB75</string>
-				<key>fontStyle</key>
-				<string>italic</string>
 			</dict>
 		</dict>
 		<dict>
@@ -632,8 +618,6 @@
 			<dict>
 				<key>foreground</key>
 				<string>#3D5B99</string>
-				<key>fontStyle</key>
-				<string>italic</string>
 			</dict>
 		</dict>
 		<dict>
@@ -646,7 +630,7 @@
 				<key>background</key>
 				<string>#CC462B55</string>
 				<key>foreground</key>
-				<string>#ff9635</string>
+				<string>#DE8749F5</string>
 			</dict>
 		</dict>
 		<dict>
@@ -698,7 +682,7 @@
 				<key>background</key>
 				<string>#111</string>
 				<key>foreground</key>
-				<string>#F99157</string>
+				<string>#DE8749F5</string>
 			</dict>
 		</dict>
 		<dict>
@@ -722,7 +706,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#ff9635</string>
+				<string>#DE8749F5</string>
 			</dict>
 		</dict>
 	</array>
@@ -731,6 +715,6 @@
 	<key>semanticClass</key>
 	<string>theme.dark.zero_dark_matrix</string>
 	<key>author</key>
-	<string>mauricecruz [WiBla edit]</string>
+	<string>Aubrey Portwood</string>
 </dict>
 </plist>
