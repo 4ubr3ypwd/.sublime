@@ -26,19 +26,19 @@
 				<key>lineHighlight</key>
 				<string>#333</string>
 				<key>selection</key>
-				<string>#364c3b</string>
+				<string>#C78626</string>
 				<key>selectionForeground</key>
-				<string>#CCC</string>
+				<string>#222222</string>
 				<key>selectionBorder</key>
-				<string>#56795e</string>
+				<string>#C78626</string>
 				<key>tagsForeground</key>
 				<string>#B6DFEB</string>
 				<key>tagsOptions</key>
 				<string>none</string>
 				<key>activeGuide</key>
-				<string>#56795e</string>
+				<string>#7C7C78B8</string>
 				<key>guide</key>
-				<string>#444</string>
+				<string>#4444448A</string>
 				<key>gutter</key>
 				<string>#222222</string>
 				<key>gutterForeground</key>
