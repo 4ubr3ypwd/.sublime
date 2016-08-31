@@ -18,7 +18,7 @@
 				<key>background</key>
 				<string>#242424</string>
 				<key>caret</key>
-				<string>#00ee03</string>
+				<string>#89F5A2</string>
 				<key>foreground</key>
 				<string>#CCCCCC</string>
 				<key>invisibles</key>
@@ -36,7 +36,7 @@
 				<key>tagsOptions</key>
 				<string>none</string>
 				<key>activeGuide</key>
-				<string>#C78626</string>
+				<string>#89F5A2AD</string>
 				<key>guide</key>
 				<string>#242424</string>
 				<key>gutter</key>
