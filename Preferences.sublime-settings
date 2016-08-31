@@ -82,8 +82,8 @@
 	],
 	"indent_guide_options":
 	[
+		"draw_active",
 		"draw_normal",
-		"draw_active"
 	],
 	"index_exclude_patterns":
 	[

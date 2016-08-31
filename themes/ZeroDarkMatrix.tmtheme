@@ -36,13 +36,15 @@
 				<key>tagsOptions</key>
 				<string>none</string>
 				<key>activeGuide</key>
-				<string>#242424</string>
+				<string>#C78626</string>
 				<key>guide</key>
-				<string>#4444448A</string>
+				<string>#242424</string>
 				<key>gutter</key>
 				<string>#222222</string>
 				<key>gutterForeground</key>
 				<string>#AAA</string>
+				<key>stackGuide</key>
+				<string>#242424</string>
 			</dict>
 		</dict>
 		<dict>
