@@ -254,7 +254,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#5AABD6</string>
+				<string>#428FB8</string>
 				<key>background</key>
 				<string></string>
 			</dict>
@@ -709,6 +709,17 @@
 			<dict>
 				<key>foreground</key>
 				<string>#DE8749F5</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Variable Punctuation</string>
+			<key>scope</key>
+			<string>punctuation.definition.variable</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#428FB8</string>
 			</dict>
 		</dict>
 	</array>
