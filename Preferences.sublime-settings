@@ -24,7 +24,7 @@
 	],
 	"bold_folder_labels": true,
 	"centurion_color_orange": true,
-	"color_scheme": "Packages/themes/scheme-sweet.tmTheme",
+	"color_scheme": "Packages/themes/ZeroDarkMatrix.tmtheme",
 	"copy_with_empty_selection": true,
 	"draw_indent_guides": true,
 	"draw_shadows": false,
@@ -56,7 +56,6 @@
 		"subpixel_antialias"
 	],
 	"font_size": 12,
-	"gruvbox_accent_aqua": true,
 	"gruvbox_autocomplete_border": false,
 	"gruvbox_autocomplete_compact": true,
 	"gruvbox_command_palette_compact": true,
@@ -83,7 +82,7 @@
 	],
 	"indent_guide_options":
 	[
-		"draw_normal",
+		// "draw_normal",
 		"draw_active"
 	],
 	"index_exclude_patterns":
@@ -124,10 +123,11 @@
 	"show_only_filename": true,
 	"sidebar_font_small": true,
 	"soda_classic_tabs": false,
+	"soda_folder_icons": false,
 	"spell_check": true,
-	"tab_size": 2,
+	"tab_size": 3,
 	"theirs_gutter": true,
-	"theme": "gruvbox (Dark) (Hard).sublime-theme",
+	"theme": "Soda Dark 3.sublime-theme",
 	"theme_primer_tabs_font_small": true,
 	"trim_trailing_white_space_on_save": true,
 	"use_simple_full_screen": true,
