@@ -24,7 +24,7 @@
 	],
 	"bold_folder_labels": true,
 	"centurion_color_orange": true,
-	"color_scheme": "Packages/themes/ZeroDarkMatrix.tmtheme",
+	"color_scheme": "Packages/User/SublimeLinter/base16-atelier-sulphurpool (SL).tmTheme",
 	"copy_with_empty_selection": true,
 	"draw_indent_guides": true,
 	"draw_shadows": false,
@@ -77,13 +77,15 @@
 	"hot_exit": true,
 	"ignored_packages":
 	[
+		"HTML-CSS-JS Prettify",
 		"Markdown",
+		"Material Theme",
 		"Vintage"
 	],
 	"indent_guide_options":
 	[
 		"draw_active",
-		"draw_normal",
+		"draw_normal"
 	],
 	"index_exclude_patterns":
 	[
@@ -125,7 +127,7 @@
 	"soda_classic_tabs": false,
 	"soda_folder_icons": false,
 	"spell_check": true,
-	"tab_size": 3,
+	"tab_size": 2,
 	"theirs_gutter": true,
 	"theme": "Soda Dark 3.sublime-theme",
 	"theme_primer_tabs_font_small": true,
