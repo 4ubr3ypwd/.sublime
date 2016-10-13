@@ -8,11 +8,11 @@
 	/*
 	 * Marks.
 	 */
-	{ "keys": ["ctrl+."], "command": "next_bookmark" },
-	{ "keys": ["ctrl+,"], "command": "prev_bookmark" },
-	{ "keys": ["ctrl+i"], "command": "toggle_bookmark" },
-	{ "keys": ["ctrl+shift+d"], "command": "clear_bookmarks" },
-	{ "keys": ["ctrl+shift+i"], "command": "select_all_bookmarks" },
+	{ "keys": ["alt+,"], "command": "next_bookmark" },
+	{ "keys": ["alt+/"], "command": "prev_bookmark" },
+	{ "keys": ["alt+."], "command": "toggle_bookmark" },
+	{ "keys": ["alt+shift+."], "command": "clear_bookmarks" },
+	{ "keys": ["alt+shift+ctrl+."], "command": "select_all_bookmarks" },
 
 	/*
 	 * Move with left shift by words.
