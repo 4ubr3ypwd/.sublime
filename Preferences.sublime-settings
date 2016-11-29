@@ -1,7 +1,10 @@
 {
 	"added_words":
 	[
-		"programatically"
+		"programatically",
+		"plugin",
+		"config",
+		"configs"
 	],
 	"always_show_minimap_viewport": false,
 	"ancestor_gutter": true,
@@ -24,7 +27,7 @@
 	],
 	"bold_folder_labels": true,
 	"centurion_color_orange": true,
-	"color_scheme": "Packages/User/SublimeLinter/base16-atelier-sulphurpool (SL).tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/base16-atelier-plateau (SL).tmTheme",
 	"copy_with_empty_selection": true,
 	"draw_indent_guides": true,
 	"draw_shadows": false,
@@ -49,13 +52,14 @@
 		"*.min.*",
 		"*.map*"
 	],
-	"font_face": "Menlo",
+	"font_face": "Inconsolata",
 	"font_options":
 	[
-		"DirectWrite",
-		"subpixel_antialias"
+		"DirectWrite"
 	],
-	"font_size": 12,
+	"font_size": 14,
+	"gravity_tab_font_small": true,
+	"gravity_tab_height_short": true,
 	"gruvbox_autocomplete_border": false,
 	"gruvbox_autocomplete_compact": true,
 	"gruvbox_command_palette_compact": true,
@@ -79,7 +83,6 @@
 	[
 		"HTML-CSS-JS Prettify",
 		"Markdown",
-		"Material Theme",
 		"Vintage"
 	],
 	"indent_guide_options":
@@ -124,10 +127,11 @@
 	"show_minimap": false,
 	"show_only_filename": true,
 	"sidebar_font_small": true,
-	"soda_classic_tabs": false,
+	"soda_classic_tabs": true,
 	"soda_folder_icons": false,
 	"spell_check": true,
 	"tab_size": 2,
+	"tabs_small": true,
 	"theirs_gutter": true,
 	"theme": "Soda Dark 3.sublime-theme",
 	"theme_primer_tabs_font_small": true,
